@@ -1,0 +1,39 @@
+### Xcode ###
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+### SwiftPM ###
+.build/
+.package.resolved
+
+### CocoaPods ###
+Pods/
+
+### Carthage ###
+Carthage/Build/
+
+### Xcode Ghost Files ###
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+*.xcscmblueprint
+
+### Archives ###
+*.xcarchive
+
+### Fastlane ###
+fastlane/report.xml
+fastlane/screenshots
+fastlane/test_output
+
+### Firebase ###
+GoogleService-Info.plist
+
+### Misc ###
+*.DS_Store
+*.swp
